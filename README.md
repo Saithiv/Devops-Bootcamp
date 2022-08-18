@@ -3,7 +3,7 @@
 
 #### First step: 
 [Workflow](https://trello.com/invite/b/vmpwrOsd/be1bd1241d712b3a96839d2e7ef353c2/devops) for the given acceptance criteria:
-*     Clone the web application 
+*         Clone the web application 
 * 		Create a docker image of the web application
 * 		Push our docker image to Dockerhub
 * 		Run as docker image
